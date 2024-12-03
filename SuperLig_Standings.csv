@@ -1,0 +1,20 @@
+Rank,TeamName,MatchesPlayed,Wins,Draws,Losses,GoalsFor,GoalsAgainst,GoalDifference,Points
+1,Galatasaray A.Ş.,13,11,2,0,35,13,22,35
+2,Fenerbahçe A.Ş.,13,10,2,1,36,12,24,32
+3,Reeder Samsunspor,14,9,2,3,31,16,15,29
+4,İkas Eyüpspor,14,6,5,3,26,14,12,23
+5,Beşiktaş A.Ş.,13,6,4,3,24,15,9,22
+6,Göztepe A.Ş.,13,6,3,4,24,19,5,21
+7,Rams Başakşehir Futbol Kulübü,13,5,4,4,21,18,3,19
+8,Çaykur Rizespor A.Ş.,13,6,1,6,20,15,5,19
+9,Net Global Sivasspor,14,5,3,6,18,22,-4,18
+10,Tümosan Konyaspor,14,5,3,6,21,26,-5,18
+11,Onvo Antalyaspor,13,5,2,6,15,23,-8,17
+12,Trabzonspor A.Ş.,13,3,6,4,18,16,2,15
+13,Gaziantep Futbol Kulübü A.Ş.,13,4,3,6,21,23,-2,15
+14,Kasımpaşa A.Ş.,13,3,4,6,18,21,-3,15
+15,Corendon Alanyaspor,13,3,5,5,18,22,-4,14
+16,Bellona Kayserispor,13,3,3,7,15,27,-12,12
+17,Sipay Bodrum FK,13,3,2,8,14,35,-21,11
+18,Atakaş Hatayspor,13,1,5,7,10,31,-21,8
+19,Adana Demirspor A.Ş.,13,0,2,11,10,31,-22,2
